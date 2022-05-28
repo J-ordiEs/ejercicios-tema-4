@@ -1,0 +1,15 @@
+D:\Jorge\C#\ejercicios\ejercicios-tema-4\ejercicios-tema-4\bin\Debug\net6.0\ejercicios-tema-4.exe
+D:\Jorge\C#\ejercicios\ejercicios-tema-4\ejercicios-tema-4\bin\Debug\net6.0\ejercicios-tema-4.deps.json
+D:\Jorge\C#\ejercicios\ejercicios-tema-4\ejercicios-tema-4\bin\Debug\net6.0\ejercicios-tema-4.runtimeconfig.json
+D:\Jorge\C#\ejercicios\ejercicios-tema-4\ejercicios-tema-4\bin\Debug\net6.0\ejercicios-tema-4.dll
+D:\Jorge\C#\ejercicios\ejercicios-tema-4\ejercicios-tema-4\bin\Debug\net6.0\ejercicios-tema-4.pdb
+D:\Jorge\C#\ejercicios\ejercicios-tema-4\ejercicios-tema-4\obj\Debug\net6.0\ejercicios-tema-4.csproj.AssemblyReference.cache
+D:\Jorge\C#\ejercicios\ejercicios-tema-4\ejercicios-tema-4\obj\Debug\net6.0\ejercicios-tema-4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jorge\C#\ejercicios\ejercicios-tema-4\ejercicios-tema-4\obj\Debug\net6.0\ejercicios-tema-4.AssemblyInfoInputs.cache
+D:\Jorge\C#\ejercicios\ejercicios-tema-4\ejercicios-tema-4\obj\Debug\net6.0\ejercicios-tema-4.AssemblyInfo.cs
+D:\Jorge\C#\ejercicios\ejercicios-tema-4\ejercicios-tema-4\obj\Debug\net6.0\ejercicios-tema-4.csproj.CoreCompileInputs.cache
+D:\Jorge\C#\ejercicios\ejercicios-tema-4\ejercicios-tema-4\obj\Debug\net6.0\ejercicios-tema-4.dll
+D:\Jorge\C#\ejercicios\ejercicios-tema-4\ejercicios-tema-4\obj\Debug\net6.0\refint\ejercicios-tema-4.dll
+D:\Jorge\C#\ejercicios\ejercicios-tema-4\ejercicios-tema-4\obj\Debug\net6.0\ejercicios-tema-4.pdb
+D:\Jorge\C#\ejercicios\ejercicios-tema-4\ejercicios-tema-4\obj\Debug\net6.0\ejercicios-tema-4.genruntimeconfig.cache
+D:\Jorge\C#\ejercicios\ejercicios-tema-4\ejercicios-tema-4\obj\Debug\net6.0\ref\ejercicios-tema-4.dll
